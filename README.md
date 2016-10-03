@@ -1,5 +1,8 @@
 # Stat159-lab5
 
+UserA: Shannon Chang
+UserB: Jacqueline Liu
+
 ### Task1: 
 
 UserA is creating commits, then UserB is pulling those commits and creating more commits. 
@@ -23,4 +26,7 @@ Now both of us are creating branches (task4A and task4B). However, no merge conf
 occured this time around when we merged onto master because we were editing different 
 files.
 
-
+### Task5:
+Again, we both created separate branches, but because we were editing the same file,
+there was another merge conflict. This time UserB had pushed to GitHub first, so UserA
+had to resolved the merge conflict. 
